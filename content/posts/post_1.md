@@ -1,10 +1,10 @@
 ---
-title: "Culturas de Alto Contexto y Culturas de Bajo Contexto"
+title: "Culturas de Alto y Bajo Contexto"
 date: 2022-04-07T14:57:00-00:00
 description: 'Comunicación | Nuestra Cultura | Latam'
 ---
 
-# Culturas de Alto Contexto y Culturas de Bajo Contexto! 👨‍🦱
+# Hola! 👨‍🦱
 
 De que va este tema, hace unos años oí sobre esto, de un extranjero de USA, la verdad el tema se me hizo fuera de lugar y hasta me ofendí.
 
