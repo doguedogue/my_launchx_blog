@@ -7,14 +7,12 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 # ¡Hola! 👋
 
 Para mí la cultura de un desarrollador de software se basa en lo siguiente:
-
 - Ética
 - Respeto
 - Autoaprendizaje
 - Constancia
 
 Mis expectativas
-
 - Mejorar mi dependencia cultural a ser de alto contexto
 - Apoyar a los demás a hacerlo
 - Mejorar en todos los ambitos
