@@ -9,11 +9,11 @@
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://doguedogue.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Culturas de Alto y Bajo Contexto</title>
-      <link>https://doguedogue.github.io/my_launchx_blog/posts/post_1/</link>
-      <pubDate>Thu, 07 Apr 2022 14:57:00 +0000</pubDate>
+      <link>https://doguedogue.github.io/my_launchx_blog/posts/post_2/</link>
+      <pubDate>Thu, 07 Apr 2022 17:02:00 +0000</pubDate>
       
-      <guid>https://doguedogue.github.io/my_launchx_blog/posts/post_1/</guid>
-      <description>Hola! 👨‍🦱 De que va este tema, hace unos años oí sobre esto, de un extranjero de USA, la verdad el tema se me hizo fuera de lugar y hasta me ofendí.
+      <guid>https://doguedogue.github.io/my_launchx_blog/posts/post_2/</guid>
+      <description>De que va este tema, hace unos años oí sobre esto, de un extranjero de USA, la verdad el tema se me hizo fuera de lugar y hasta me ofendí.
 Igual y conoces al respecto, pero básicamente se refiere a que en la comunicación hay ciertas culturas que son más explicitas y otras no, que hay culturas que requieren más información (o contexto) para comunicarse.
 Al profundizar en el tema no está muy alejado de la realidad, y el estudio es de un antropologo (porque fue a muchos Antros a investigar, ja)</description>
     </item>
@@ -27,6 +27,16 @@ Al profundizar en el tema no está muy alejado de la realidad, y el estudio es d
       <description>¡Hola! 👋 Para mí la cultura de un desarrollador de software se basa en lo siguiente:
  Ética Respeto Autoaprendizaje Constancia  Mis expectativas
  Mejorar mi dependencia cultural a ser de alto contexto Apoyar a los demás a hacerlo Mejorar en todos los ambitos  </description>
+    </item>
+    
+    <item>
+      <title>Semana 1</title>
+      <link>https://doguedogue.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://doguedogue.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Mi Aprendizaje semanal:
+ Uso de la terminal (línea de comandos)  Windows - CMD/PowerShell Linux/WSL - Bash/Zsh/Fish   Uso de editor de texto  VS Code VIM Eclipse   Uso de Git/Github  </description>
     </item>
     
   </channel>
